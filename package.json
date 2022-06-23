@@ -163,7 +163,7 @@
 		"companion-module-bmd-multiview4": "github:bitfocus/companion-module-bmd-multiview4#v1.3.5",
 		"companion-module-brompton-tessera": "github:christiannng/companion-module-brompton-tessera#v1.0.5",
 		"companion-module-connect-webcaster": "github:bitfocus/companion-module-connect-webcaster#v1.0.1",
-		
+		"companion-module-bmd-videohub": "github:bitfocus/companion-module-bmd-videohub#v1.3.3",
 		"companion-module-elgato-keylight": "github:bitfocus/companion-module-elgato-keylight#v1.2.4",
 		"companion-module-esphome-api": "github:bitfocus/companion-module-esphome-api#v1.0.3",
 		"companion-module-etc-eos": "github:bitfocus/companion-module-etc-eos#v1.3.2",
