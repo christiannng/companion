@@ -159,6 +159,8 @@
 		"archiver": "^5.3.0",
 		"binopsy": "^0.0.0",
 		"check-ip": "^1.1.1",
+		"companion-module-vicreo-hotkey": "github:bitfocus/companion-module-vicreo-hotkey#v3.0.2",
+		"companion-module-vicreo-variablelistener": "github:bitfocus/companion-module-vicreo-variablelistener#v1.0.8",
 		"companion-module-bmd-multiview16": "github:bitfocus/companion-module-bmd-multiview16#v1.0.1",
 		"companion-module-bmd-multiview4": "github:bitfocus/companion-module-bmd-multiview4#v1.3.5",
 		"companion-module-brompton-tessera": "github:christiannng/companion-module-brompton-tessera#v1.0.5",
