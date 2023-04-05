@@ -43,7 +43,7 @@ if (process.env.COMPANION_CONFIG_BASEDIR !== undefined) {
 	system.emit('skeleton-info', 'configDir', process.env[process.platform == 'win32' ? 'USERPROFILE' : 'HOME'])
 }
 
-var port = '8000'
+var port = '8032'
 
 if (process.argv[3] != null) {
 	port = process.argv[3]
